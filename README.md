@@ -13,6 +13,6 @@
 
 *client.py server.py
 
-![client](https://user-images.githubusercontent.com/48480825/54368934-6097d200-46b8-11e9-8a57-7db89ffe18d3.JPG)
 ![server](https://user-images.githubusercontent.com/48480825/54368944-6392c280-46b8-11e9-9239-9abd92374c0e.JPG)
+![client](https://user-images.githubusercontent.com/48480825/54368934-6097d200-46b8-11e9-8a57-7db89ffe18d3.JPG)
 

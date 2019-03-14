@@ -1,2 +1,0 @@
-# Network_assignment
-Network_assignment_2017038065황준해, 2017038062정해경
